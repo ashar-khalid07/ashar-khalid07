@@ -1,4 +1,4 @@
-# Hi, I'm Ashar
+# Hi, I'm Ashar 👋
 
 Computer Science Student @ Manchester Metropolitan University
 
@@ -16,8 +16,8 @@ I enjoy building practical projects and developing my technical skills through p
 
 - Java and Object-Oriented Programming
 - Data Structures & Algorithms
+- Coding Problem Solving & Algorithms
 - Computer Networking
-- Coding Problem-solving and Algorithms
 - Cybersecurity
 
 ## What I'm Working Toward
@@ -26,9 +26,6 @@ I'm building a strong foundation in software engineering, cybersecurity and netw
 
 ## Tech Stack
 
-### Programming
-Java • Python • SQL • JavaScript
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
@@ -36,21 +33,34 @@ Java • Python • SQL • JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
 </p>
 
+## Featured Projects
+
+### 💰 Budget Tracker
+A Python and SQL application for tracking and analysing personal finances.
+
+### 🎮 2D Endless Runner
+A Python-based 2D endless runner featuring user authentication, animated gameplay, obstacles, scoring and a leaderboard.
+
+### 🔐 Security Projects
+A collection of projects exploring password security, encryption and cybersecurity concepts.
+
+*More projects will be added as I continue developing my portfolio.*
+
+---
+
 ## Education
 
-- BSc (Hons) Computer Science — Manchester Metropolitan University
-- A Levels — Mathematics, Physics & Computer Science
+**BSc (Hons) Computer Science**  
+Manchester Metropolitan University
+
+**A Levels**  
+Mathematics • Physics • Computer Science
 
 ## Certifications & Technical Learning
 
 - CIISec CyberEPQ — A*
 - CompTIA A+ Core 1 — Course Content Completed
-
-## Featured Projects
-
-Projects showcasing my experience in software development, databases and cybersecurity.
-
-*More projects coming soon.*
+- CompTIA Network+ — Expected Completion: Jan 2027
 
 ## Connect With Me
 
