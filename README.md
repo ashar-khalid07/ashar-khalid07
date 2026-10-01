@@ -17,22 +17,24 @@ I enjoy building practical projects and developing my technical skills through p
 - Java and Object-Oriented Programming
 - Data Structures & Algorithms
 - Computer Networking
+- Coding Problem-solving and Algorithms
 - Cybersecurity
-- Microsoft Azure
+
+## What I'm Working Toward
+
+I'm building a strong foundation in software engineering, cybersecurity and networking, with the goal of applying these skills through internships, placement opportunities and future graduate roles in technology.
 
 ## Tech Stack
 
 ### Programming
-- Java
-- Python
-- SQL
-- JavaScript
+Java • Python • SQL • JavaScript
 
-### Tools & Technologies
-- Git & GitHub
-- Microsoft Azure
-- Wireshark
-- Cisco Packet Tracer
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+</p>
 
 ## Education
 
@@ -43,11 +45,12 @@ I enjoy building practical projects and developing my technical skills through p
 
 - CIISec CyberEPQ — A*
 - CompTIA A+ Core 1 — Course Content Completed
-- Microsoft Azure AZ-104 — Course Content Completed
 
-## Projects
+## Featured Projects
 
-More projects coming soon...
+Projects showcasing my experience in software development, databases and cybersecurity.
+
+*More projects coming soon.*
 
 ## Connect With Me
 
