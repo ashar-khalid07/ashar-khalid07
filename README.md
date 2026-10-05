@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="./HERO_FILENAME.svg" width="100%" alt="Ashar Khalid">
+  <img src="./GIT-1.svg" width="100%" alt="Ashar Khalid">
 </p>
 
 # Hi, I'm Ashar 👋
@@ -19,7 +19,7 @@ I enjoy building practical projects and developing my technical skills through p
 
 <!-- ABOUT -->
 <p align="center">
-  <img src="./ABOUT_FILENAME.svg" width="100%" alt="About Ashar Khalid">
+  <img src="./GIT-2.svg" width="100%" alt="About Ashar Khalid">
 </p>
 
 ## Currently Learning
@@ -38,7 +38,7 @@ I'm building a strong foundation in software engineering, cybersecurity and netw
 
 <!-- STACK -->
 <p align="center">
-  <img src="./STACK_FILENAME.svg" width="100%" alt="Tech Stack">
+  <img src="./GIT-3.svg" width="100%" alt="Tech Stack">
 </p>
 
 ## Tech Stack
@@ -93,5 +93,5 @@ Mathematics • Physics • Computer Science
 
 <!-- GITHUB ACTIVITY -->
 <p align="center">
-  <img src="./GITHUB_FILENAME.svg" width="100%" alt="GitHub Activity">
+  <img src="./GIT-3.svg" width="100%" alt="GitHub Activity">
 </p>
