@@ -3,20 +3,6 @@
   <img src="./GIT-1.svg" width="100%" alt="Ashar Khalid">
 </p>
 
-# Hi, I'm Ashar 👋
-
-Computer Science Student @ Manchester Metropolitan University
-
-Software Engineering • Java • Python • SQL • Cybersecurity • Networking
-
-## About Me
-
-I'm a Computer Science student at Manchester Metropolitan University with a strong interest in software engineering, cybersecurity and computer networking.
-
-I enjoy building practical projects and developing my technical skills through programming, university work and independent learning. I'm currently focusing on Java, Python, SQL and networking while building a stronger foundation for a career in technology.
-
----
-
 <!-- ABOUT -->
 <p align="center">
   <img src="./GIT-2.svg" width="100%" alt="About Ashar Khalid">
@@ -40,17 +26,6 @@ I'm building a strong foundation in software engineering, cybersecurity and netw
 <p align="center">
   <img src="./GIT-3.svg" width="100%" alt="Tech Stack">
 </p>
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-</p>
-
----
 
 ## Featured Projects
 
@@ -93,5 +68,5 @@ Mathematics • Physics • Computer Science
 
 <!-- GITHUB ACTIVITY -->
 <p align="center">
-  <img src="./GIT-3.svg" width="100%" alt="GitHub Activity">
+  <img src="./GIT-4.svg" width="100%" alt="GitHub Activity">
 </p>
