@@ -3,26 +3,23 @@
   <img src="./GIT-1.svg" width="100%" alt="Ashar Khalid">
 </p>
 
-<!-- ABOUT -->
-<p align="center">
-  <img src="./GIT-2.svg" width="100%" alt="About Ashar Khalid">
-</p>
+## About Me
+
+I'm a Computer Science student at Manchester Metropolitan University with a strong interest in software engineering, cybersecurity and computer networking.
+
+I enjoy building practical projects and developing my technical skills through programming, university work and independent learning.
 
 ## Currently Learning
 
-- Java and Object-Oriented Programming
+- Java & Object-Oriented Programming
 - Data Structures & Algorithms
-- Coding Problem Solving & Algorithms
+- Coding Problem Solving
 - Computer Networking
 - Cybersecurity
 
-## What I'm Working Toward
-
-I'm building a strong foundation in software engineering, cybersecurity and networking, with the goal of applying these skills through internships, placement opportunities and future graduate roles in technology.
-
 ---
 
-<!-- STACK -->
+<!-- TECH STACK -->
 <p align="center">
   <img src="./GIT-3.svg" width="100%" alt="Tech Stack">
 </p>
@@ -30,15 +27,21 @@ I'm building a strong foundation in software engineering, cybersecurity and netw
 ## Featured Projects
 
 ### 💰 Budget Tracker
-A Python and SQL application for tracking and analysing personal finances.
+**Python • SQL**
+
+A personal finance application for tracking and analysing spending.
 
 ### 🎮 2D Endless Runner
-A Python-based 2D endless runner featuring user authentication, animated gameplay, obstacles, scoring and a leaderboard.
+**Python**
+
+A 2D endless runner featuring user authentication, animated gameplay, obstacles, scoring and a leaderboard.
 
 ### 🔐 Security Projects
-A collection of projects exploring password security, encryption and cybersecurity concepts.
+**Python • JavaScript**
 
-*More projects will be added as I continue developing my portfolio.*
+A collection of projects exploring password security, password generation and encryption concepts.
+
+> More projects will be added as I continue developing my portfolio.
 
 ---
 
@@ -58,11 +61,11 @@ Mathematics • Physics • Computer Science
 
 ---
 
-## Connect With Me
+## Connect
 
-- GitHub: [github.com/ashar-khalid07](https://github.com/ashar-khalid07)
-- LinkedIn: [Coming soon]
-- Portfolio: [asharkhalid.co.uk](https://asharkhalid.co.uk)
+- [GitHub](https://github.com/ashar-khalid07)
+- [LinkedIn](#)
+- [Portfolio](https://asharkhalid.co.uk)
 
 ---
 
