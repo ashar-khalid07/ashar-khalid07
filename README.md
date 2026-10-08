@@ -103,5 +103,5 @@ Mathematics • Physics • Computer Science
 ## Connect With Me
 
 - [GitHub](https://github.com/ashar-khalid07)
-- LinkedIn — Coming soon
+- LinkedIn — ([https://linkedin.com/in/asharkhalid07](https://linkedin.com/in/asharkhalid07))
 - [Portfolio](https://asharkhalid.co.uk)
